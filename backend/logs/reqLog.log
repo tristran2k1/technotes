@@ -59,3 +59,8 @@
 20240124	16:39:48	63410fb4-6622-40b7-921a-9632ec9f2c9e	GET	/users	http://localhost:3000
 20240124	16:39:53	4fd53cc5-81ed-42fc-b3db-84b79391a8ee	OPTIONS	/notes	http://localhost:3000
 20240124	16:39:53	1ff1fca7-d449-4251-8a9e-d878a3b3da34	GET	/notes	http://localhost:3000
+20240124	17:00:17	487297fa-fdea-4659-8f3f-9ab83482b8dd	GET	/auth/refresh	http://localhost:3000
+20240124	17:00:17	7ac88be9-8cee-40a7-81e3-63f0294c6a85	OPTIONS	/notes	http://localhost:3000
+20240124	17:00:17	529f0d88-9a01-42dc-b60d-36a46e66b6bd	OPTIONS	/users	http://localhost:3000
+20240124	17:00:17	0d7028b0-91b1-44f8-bcf2-bc4042c0adc7	GET	/notes	http://localhost:3000
+20240124	17:00:17	9e1e3048-2500-4184-a566-9fe9388801f9	GET	/users	http://localhost:3000
