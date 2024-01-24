@@ -82,12 +82,11 @@ const NewUserForm = () => {
         <>
             <p className={errClass}>{error?.data?.message}</p>
 
-            <form className="form">
+            <form className="form" onSubmit={onSaveUserClicked}>
                 <div className="form__title-row">
                     <h2>New User</h2>
                     <div className="form__action-buttons">
                         <button
-                        onClick={onSaveUserClicked}
                             className="icon-button"
                             title="Save"
                             disabled={!canSave}
