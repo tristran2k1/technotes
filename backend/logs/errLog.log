@@ -1,0 +1,20 @@
+20240118	17:32:29	4cf26de1-8866-457b-82e3-fbb99ff549d7	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20240118	17:32:29	da99ecaa-df08-4b67-97f7-d100acfe2be6	Error: Not allowed by CORS	GET	/	https://www.google.com
+20240118	17:40:26	8169a5da-8ce3-4adc-9b67-a79f667e66ea	Error: Not allowed by CORS	GET	/	null
+20240123	18:11:09	9add50d0-7a8a-436a-ae37-0993a29dde11	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:11:26	13ddee16-0043-4510-a08b-fd98d88dcf42	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:16:12	ca9522b9-68fa-43c4-9117-36875c20dc19	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:21:52	efbfa871-ced9-421d-a516-8de5ae5e7f5d	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:22:17	6c6906a1-2448-450b-ae65-fe0f96caf074	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:23:05	0bccb91b-53c8-4974-a818-f521370dbc5a	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:23:46	0d5761b9-314b-4b73-9b92-41fff358580a	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:31:49	7223885f-7e00-49ed-870f-10c5438f9022	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:33:09	11b4f3bc-ed1f-4c36-8e65-df51e157fbae	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	http://localhost:3000
+20240123	18:35:11	cff45ad7-60cf-459e-8150-a5c9706d3d02	ReferenceError: body is not defined	POST	/users	http://localhost:3000
+20240123	18:37:37	8a7d0d3c-78d6-42cd-a989-e7a86c44ed6f	ReferenceError: body is not defined	POST	/users	http://localhost:3000
+20240123	21:25:58	61831c9f-ba18-44a5-bddb-caec960573b6	ReferenceError: body is not defined	POST	/users	http://localhost:3000
+20240123	21:27:08	ba26ac83-29c4-40f8-a94a-e14ff6de8f9c	ReferenceError: body is not defined	POST	/users	http://localhost:3000
+20240123	21:28:06	4c007297-d68d-4b0b-87f6-24ff82ad6325	ReferenceError: body is not defined	POST	/users	http://localhost:3000
+20240123	21:40:53	8a28bba4-c92d-435d-b4de-38d7456827c1	ReferenceError: body is not defined	POST	/users	undefined
+20240123	21:41:08	03982cfd-f657-4352-977f-2b611cf8ac35	ReferenceError: body is not defined	POST	/users	undefined
+20240123	21:43:58	25c2577b-5d54-42b0-b6bd-8f769d15dbd6	ValidationError: User validation failed: name: Path `name` is required.	POST	/users	undefined
