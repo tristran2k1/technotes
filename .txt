@@ -1,3 +1,0 @@
-mongo
-user = trankhatri123
-pass =CvnvwrIdJARppWJI
