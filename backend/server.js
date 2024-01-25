@@ -20,7 +20,8 @@ app.use(cors(corsOptions))
 
 app.use(express.json())
 
-app.use(cookieParser())
+app.use(cookieParser())  // dùng để parse cookie -> get permission
+                        // req.cookie.token
 
 app.use ('/', express.static(path.join(__dirname, 'public')))
 

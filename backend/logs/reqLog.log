@@ -64,3 +64,8 @@
 20240124	17:00:17	529f0d88-9a01-42dc-b60d-36a46e66b6bd	OPTIONS	/users	http://localhost:3000
 20240124	17:00:17	0d7028b0-91b1-44f8-bcf2-bc4042c0adc7	GET	/notes	http://localhost:3000
 20240124	17:00:17	9e1e3048-2500-4184-a566-9fe9388801f9	GET	/users	http://localhost:3000
+20240125	15:45:00	8c748ad1-573c-4b9d-bcbe-000ef0cd0a0b	GET	/users	undefined
+20240125	15:45:04	f2c4311a-bf6d-4708-8bd8-439411487519	GET	/	undefined
+20240125	15:45:27	ebbc0b0d-2773-45b7-a706-64eb5b8c01ba	GET	/users	undefined
+20240125	15:46:00	087213ca-eded-4977-8a74-df86e7dc24d6	GET	/users	undefined
+20240125	15:46:10	79add057-0226-4a46-b684-4e9e4d8b7dd5	GET	/users	undefined

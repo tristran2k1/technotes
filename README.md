@@ -20,3 +20,15 @@
 18. [x] Only Managers and Admins can access User Settings
 19. [x] Only Managers and Admins can create new users 
 20. [x] Desktop mode is most important but should be available in mobile 
+
+
+*** Other libs:
+- roles: node_acl
+- load data - fe: ajax, jquery
+- Socket.io
+- Sequelize: interact with db
+- Cytoscape.js : processing graph data
+- PDFKit
+- upload - be: multer
+- PassportJS : OAuth2 - GG,FB,X...
+    - passport_local -> using username + password from client 
